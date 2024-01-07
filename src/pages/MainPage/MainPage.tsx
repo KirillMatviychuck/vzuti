@@ -1,5 +1,5 @@
-import { LeftBlock } from './LeftBlock/LeftBlock';
-import { RightBlock } from './RightBlock/RightBlock';
+import { LeftBlock } from '../../components/MainPage/LeftBlock/LeftBlock';
+import { RightBlock } from '../../components/MainPage/RightBlock/RightBlock';
 
 export const MainPage = () => {
     return (
